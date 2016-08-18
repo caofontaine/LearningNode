@@ -1,0 +1,1 @@
+# Chapter 2, Example 2 - Demonstrating standard I/O in Node, and exiting application
