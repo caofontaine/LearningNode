@@ -1,0 +1,1 @@
+# Chapter 2, Example 6 - Very basic test of the EventEmitter functionality
