@@ -1,0 +1,1 @@
+# Chapter 2, Example 7 - Creating an event-based object that inherits from EventEmitter
