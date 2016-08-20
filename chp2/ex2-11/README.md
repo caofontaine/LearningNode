@@ -1,0 +1,1 @@
+# Chapter 2, Example 11 - Adding in a stats check of each directory object to make sure it’s a file
