@@ -1,0 +1,1 @@
+# Chapter 3, Example 6 - Opening three files in parallel and reading in their contents
